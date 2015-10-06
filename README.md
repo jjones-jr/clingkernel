@@ -11,7 +11,7 @@ but I'll clean that up so it works on 3.x.
 
 To install the kernel:
 
-    jupyter kernelspec install cling
+    jupyter-kernelspec install cling
 
 or for IPython/Jupyter < 4:
 
